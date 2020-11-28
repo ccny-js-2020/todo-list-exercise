@@ -1,0 +1,23 @@
+.content {
+  padding: 25px;
+}
+
+.todo-text {
+  font-size: 16px;
+  margin-right: 5px;
+  margin-top: 4px;
+}
+
+.todo {
+  display: flex;
+}
+
+.btn-danger {
+  height: 33px;
+  width: 33px;
+  font-size: 12px;
+}
+
+.form {
+  margin-bottom: 10px;
+}
